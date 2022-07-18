@@ -4,16 +4,16 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hengkel'
+global.nameowner = 'Drekk'
 global.numberowner = '6282138729360'
-global.instagram = 'https://instagram.com/ditt_turu?igshid=YmMyMTA2M2Y='
-global.github = 'https://github.com/Xzcyy'
+global.instagram = 'Acces Denied'
+global.github = 'Acces Denied'
 global.dana = '-'
 global.pulsa = '0895402127803'
 global.gopay = '089502191993'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Anyaあ⁩'
+global.namebot = 'Dreki-MDあ⁩'
 global.gc = '-'
 global.web = 'https://github.com/Xzcyy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Aditタ'
+global.wm = 'Drekiタ'
 global.watermark = wm
-global.wm2 = '                     「 Anyaあ⁩ 」'
-global.wm3 = 'Anyaあ⁩'
+global.wm2 = '                     「 Drekiあ⁩ 」'
+global.wm3 = 'Drekiあ⁩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
