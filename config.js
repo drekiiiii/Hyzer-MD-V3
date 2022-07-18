@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['62895402127803'] 
+global.owner = ['6282138729360'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Aditタ'
-global.numberowner = '62895402127803'
+global.nameowner = 'Hengkel'
+global.numberowner = '6282138729360'
 global.instagram = 'https://instagram.com/ditt_turu?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/Xzcyy'
 global.dana = '-'
